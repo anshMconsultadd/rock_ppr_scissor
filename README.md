@@ -1,1 +1,1 @@
-![alt text](Screenshot 2025-01-28 at 01.12.08.png)
+![Screenshot](./images/Screenshot%202025-01-28%20at%2001.12.08.png "Rock Paper Scissors Game Screenshot")
